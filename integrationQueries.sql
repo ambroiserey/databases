@@ -1,7 +1,3 @@
--- Student Name: Ambroise Reynier
--- Student Number : 20036699
--- Write your commands and/or comments below
-
 -- 1) Is there a correlation between the number of measures and the case fatality ratio?
 
 SELECT 
