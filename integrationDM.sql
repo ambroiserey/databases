@@ -1,7 +1,3 @@
--- Student Name: Ambroise Reynier
--- Student Number : 20036699
--- Write your commands and/or comments below
-
 CREATE TABLE IF NOT EXISTS date_final_dimension
 AS (SELECT * FROM date_dimension UNION SELECT * FROM date_phsm_dimension);
 
