@@ -1,7 +1,3 @@
--- Student Name: Ambroise Reynier
--- Student Number : 20036699
--- Write your commands and/or comments below
-
 -- FROM UNF to 1NF:
 
 ALTER TABLE phsm
