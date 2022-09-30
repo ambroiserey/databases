@@ -1,7 +1,3 @@
--- Student Name: Ambroise Reynier
--- Student Number : 20036699
--- Write your commands and/or comments below
-
 -- Star schema
 
 CREATE TABLE IF NOT EXISTS country_dimension AS (SELECT DISTINCT (countryterritoryCode),
